@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_14.1"
+export FOX_BRANCH="fox_12.1"
 export DT_LINK="https://github.com/EduardoA3677/ofox_cheetah.git"
 
 export DEVICE="cheetah"
